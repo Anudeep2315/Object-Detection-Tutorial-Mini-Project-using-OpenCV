@@ -1,1 +1,1 @@
-# OpenCV-Tutorial-Mini-Project
+# Object Detection-Tutorial + Mini-Project using OpenCV
